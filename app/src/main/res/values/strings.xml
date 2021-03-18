@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="btn">Button</string>
+    <string name="to">To</string>
+    <string name="msg">Message</string>
+    <string name="usn">Username</string>
+    <string name="pwd">Password</string>
+    <string name="birth">Birthday</string>
+    <string name="mail">Email</string>
+    <string name="lout">Log Out</string>
+    <string name="lin">Log In</string>
+    <string name="sin">Sign In</string>
+    <string name="sup">Sign Up</string>
+    <string name="sout">Sign Out</string>
+    <string name="register">Register</string>
+    <string name="accept">Accept</string>
+    <string name="confirm">Confirm</string>
+
+    <string name="icon_refresh">&#xf021;</string>
+</resources>
